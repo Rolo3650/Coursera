@@ -475,3 +475,6 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,visualstudiocode,visualstudio
+
+/ITDLNNWK/M05
+!/ITDLNNWK/M05/CAC.ipynb
