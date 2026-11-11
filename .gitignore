@@ -482,3 +482,5 @@ FodyWeavers.xsd
 /DLWKT/M007/fruits-360-original-size
 /DLWKT/M007/o-vs-r-split
 /DLWKT/M007/O_R_tlearn_vgg16.keras
+*.gz
+*-ubyte*
